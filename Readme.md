@@ -1,2 +1,3 @@
-# Example of a C++ project with continuous intergration.
-[![Build Status](https://travis-ci.org/EloyMC/rest-consumer#)]
+Travis CI
+[![Build Status](https://travis-ci.org/EloyMC/rest-consumer.svg?branch=master)]
+https://travis-ci.org/EloyMC/rest-consumer
